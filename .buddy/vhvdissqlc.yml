@@ -1,4 +1,0 @@
-- pipeline: vhvdissqlc
-  refs:
-  - refs/heads/master
-  on: CLICK
